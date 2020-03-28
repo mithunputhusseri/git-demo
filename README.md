@@ -8,3 +8,4 @@ Initializr is an HTML5 templates generator to help you getting started with a ne
 adfs
 ##Website content
 1.index.html
+#CHANGES
